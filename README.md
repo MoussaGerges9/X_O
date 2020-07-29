@@ -1,1 +1,1 @@
-The famous X O game using C++ console
+The famous X O, tic tac toe game using C++ console
